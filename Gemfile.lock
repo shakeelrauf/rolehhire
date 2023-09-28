@@ -165,10 +165,7 @@ GEM
     rspec-support (3.12.0)
     rspec_junit_formatter (0.4.1)
       rspec-core (>= 2, < 4, != 2.12.0)
-    spring (2.1.1)
-    spring-watcher-listen (2.0.1)
-      listen (>= 2.7, < 4.0)
-      spring (>= 1.2, < 3.0)
+    spring (4.1.1)
     sqlite3 (1.6.3-x86_64-darwin)
     sqlite3 (1.6.3-x86_64-linux)
     thor (1.2.2)
@@ -192,8 +189,7 @@ DEPENDENCIES
   rails (~> 7.0.0, >= 7.0.0)
   rspec-rails (~> 6.0)
   rspec_junit_formatter (~> 0.4.1)
-  spring
-  spring-watcher-listen (~> 2.0.0)
+  spring (~> 4.1)
   sqlite3 (~> 1.4)
   tzinfo-data
 
